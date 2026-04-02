@@ -1,0 +1,30 @@
+# Secrets
+.env
+backend/.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Environments (Virtual Environments)
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Databases
+*.db
+backend/database/*.db
+
+# User Uploads and Dynamically Generated Files
+backend/uploads/
+backend/reports/
+backend/training_queue/
+
+# Frontend / Node 
+node_modules/
+frontend/node_modules/
+frontend/dist/
