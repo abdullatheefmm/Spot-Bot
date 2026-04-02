@@ -28,3 +28,7 @@ backend/training_queue/
 node_modules/
 frontend/node_modules/
 frontend/dist/
+
+# Presentations
+*.pptx
+*.html
